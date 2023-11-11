@@ -7,3 +7,10 @@ body {
     .container {
         padding: 0px 50px;
     }
+
+    nav {
+        background-color:blue;
+        border-radius: 10px 10px 10px 10px;
+        color: white;
+        box-shadow: 2px 2px 2px rgb(149 ,148, 148);
+    }
